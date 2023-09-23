@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "JobApp",
+    "slug": "JobApp",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "328713fe-db02-4c90-bce4-71b9e0c0ff3d"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/328713fe-db02-4c90-bce4-71b9e0c0ff3d"
+    },
+    "android": {},
+    "ios": {}
+  }
+}
